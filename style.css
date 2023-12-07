@@ -59,6 +59,7 @@ font-weight: 400;
 font-style: normal;
 color: white;
 font-size: 1.563rem;
+line-height: 2.5rem;
 }
 
 #introduction {
@@ -66,7 +67,7 @@ font-size: 1.563rem;
     transform: rotate(-90deg);
     position: relative;
     right: 26.25rem;
-    bottom: 18.1rem;
+    bottom: 15.5rem;
 }
 
 #intro {
@@ -234,10 +235,38 @@ main {
     max-width: 1280px;
 }
 
-#conclusionall
+#conclusionall {
+  position: relative;
+  bottom: 250px;
+}
 
-#conclusion 
+#conclusion {
+    position: relative;
+    left: 250px;
+    top: 40px;
+}
 
-#con {
+#conclusion2 {
+    position: relative;
+    left: 815px;
+    bottom: 45px;
+}
+
+#con { 
+    text-align: right;
+    margin-left: 300px;
+    margin-right: 200px;
+}
+
+
+    
+
+
+#references
+
+#refall {
+    margin-left: 100px;
+    width: 100px;
+    line-height: 1.5rem;
     
 }
