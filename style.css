@@ -236,7 +236,7 @@ bottom: 41.5rem;
 
 #wholedoc {
     position: relative;
-    bottom: 90px;
+    bottom: 5.625rem;
     max-height: 8600px;
     max-width: 1280px;
 }
@@ -268,11 +268,11 @@ main {
 }
 
 #webart, #bookjourn {
-    margin-right: 600px;
+    margin-right: 37.5rem;
     color: black;
     position: relative;
-    left: 100px;
-    font-size: 20px;
+    left: 6.25rem;
+    font-size: 1.25rem;
 }
 
 
@@ -284,8 +284,8 @@ main {
     line-height: 1.2rem;
     background-color: white;
     color:black;
-    padding-top: 120px;
-    padding-bottom: 120px;
+    padding-top: 7.5rem;
+    padding-bottom: 7.5rem;
     width: 2000px;
 }
 
@@ -293,7 +293,7 @@ main {
     font-size: 1.25rem;
     color: black;
     position: relative; 
-    left: 100px;
+    left: 6.25rem;
 }
 
 #madeby {
@@ -302,6 +302,7 @@ main {
     left: 40rem;
     font-size: 1.25rem;
     padding-top: 12rem;
+    font-family: 'Inter', sans-serif;
 }
 
 
